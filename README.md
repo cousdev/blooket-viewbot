@@ -47,3 +47,6 @@ You will also need to change the `QUESTION_SET_ID` variable. You will need to fi
 ![Question Set ID](/img/question_set_id.png)
 
 Copy that into the `QUESTION_SET_ID` variable. Press enter to run the script.
+
+## ⚠️ Important Note
+You need to have the tab that is running the viewbot open for it to work effectively.
